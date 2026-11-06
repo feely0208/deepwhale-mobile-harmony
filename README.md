@@ -1,6 +1,9 @@
 # 深鲸 Mobile · 鸿蒙原生版（HarmonyOS NEXT）
 
-**手机上的 DeepSeek Harness —— 鸿蒙原生版。** 与桌面端共用同一套会话、模型与权限；局域网扫码即连，外出走自建中继。
+**把电脑上的 DeepSeek Harness 装进手机 —— 鸿蒙原生版。** 会话、模型、文件都在**你自己的电脑**上跑；手机是完整操作端——聊天、切模型、看轨迹、**一键批准高危操作**。
+
+- **手机不装运行时**：不耗电跑模型、不用装 Node、业务数据不落手机。
+- 与桌面端共用同一套会话、模型与权限；局域网扫码即连，外出走自建中继。
 
 > ⏳ **状态：备案中 / 应用市场审核中。** 当前不提供公开下载；上架后会在本仓库、[官网鸿蒙专区](https://deepwhale.org.cn/harmony.html) 与 Releases 更新。
 > HarmonyOS 4.x 及以下可先安装 Android APK：[下载](https://deepwhale.org.cn/dl/mobile-apk)。
